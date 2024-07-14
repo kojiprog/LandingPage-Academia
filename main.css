@@ -1,0 +1,67 @@
+body{
+    background-color: #0D1216;
+    color: #eee;
+}
+
+.nav-bar-color {
+    background-color: #19232b;
+}
+
+.nav li a{
+    color: #eee;
+    font-weight: bold;
+}
+.nav li a:hover{
+    color: #fff
+    ;
+}
+
+.carousel-caption{
+    color: #fff;
+    font-weight: bold;
+    background-color: rgba(13, 18, 22, .5);
+}
+
+.text-color{
+    color: #eee;
+}
+.title-color{
+    color: #eee;
+    font-weight: bold;
+}
+
+#cabecalho .nav .nav-item .nav-link.active,
+#servicos button.active {
+    background-color: blueviolet;
+    color: #fff;    
+
+}
+#servicos button{
+    color: #fff;
+}
+.social-links li {
+    list-style: none;
+    display: inline;
+
+}
+
+.social-links li a {
+    text-decoration: none;
+}
+
+#contato{
+    background-color: #19232b;
+}
+
+#contato-formulario button{
+    background-color: blueviolet;
+    color: #eee;
+    border: none;
+}
+#rede-social i{
+    color: blueviolet;
+}
+
+#rede-social i.social:hover{
+    opacity: .5;
+}
